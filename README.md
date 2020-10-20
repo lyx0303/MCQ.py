@@ -1,4 +1,4 @@
-# MCQ.rpprint("Title of program: MCQ revision program")
+# MCQ.pyprint("Title of program: MCQ revision program")
 print()
 
 counter = 0
