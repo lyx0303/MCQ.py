@@ -1,4 +1,4 @@
-# cca.rpprint("Title of program: MCQ revision program")
+# MCQ.rpprint("Title of program: MCQ revision program")
 print()
 
 counter = 0
